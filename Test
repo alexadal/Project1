@@ -1,0 +1,12 @@
+import numpy as np
+
+print("Hello World")
+
+
+test = 20
+
+x = 40
+
+t = np.add(x,test)
+
+print(t)
